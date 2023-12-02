@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Masum;
+    src: url(./font/Li\ Sweet\ Shreyam\ Unicode.ttf);
+}
+@font-face {
+    font-family: Masum2;
+    src: url(./font/Li\ Manowar\ Nihar\ Unicode.ttf);
+}
+h1{
+    font-family: Masum ;
+    color: red;
+    text-align: center;
+}
+p{
+    font-family: 'Masum2';
+}
